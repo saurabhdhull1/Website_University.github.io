@@ -24,7 +24,7 @@
   padding: 10px 0px 10px 180px;
 }
 .header-img {
-  background-image: url(img/girl-header.png);
+  background-image: url(/img/girl-header.png);
   background-repeat: no-repeat;
   background-size: 100% 500px;
   height: 500px;
