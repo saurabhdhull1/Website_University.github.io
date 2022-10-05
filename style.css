@@ -100,11 +100,11 @@
   margin-top: 30px;
 }
 .message {
-  background-image: url(img/message-man.png);
+  background-image: url(/img/message-man.png);
   height: 400px;
 }
 .message1 {
-  background-image: url(img/message-bg.png);
+  background-image: url(/img/message-bg.png);
   padding-top: 150px;
   padding-right: 150px;
 }
@@ -200,7 +200,7 @@
   height: 350px;
 }
 .footer-img {
-  background-image: url(img/footer-child1.png);
+  background-image: url(/img/footer-child1.png);
   background-repeat: no-repeat;
   /* height:300px; */
 }
